@@ -18,5 +18,5 @@ A sleek and modern personal portfolio website built to showcase my skills, proje
 ---
 
 ## 📁 Folder Structure
-![Uploading Screenshot 2025-07-18 210329.png…]()
+ 
 
